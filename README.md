@@ -1,13 +1,11 @@
 # 👨🏻‍💻Customer Behavior Data Analyst Project
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
-You can rewrite it in a more professional, developer-showcase style like this:
-
 # Project Objectives
 
 This project is designed to provide hands-on experience with real-world data analytics workflows .
 
-* **Build an Industry-Ready Portfolio Project**
+* **Build an Industry-Ready Project**
   Develop a complete end-to-end analytics solution that demonstrates data cleaning, analysis, visualization, and business insights—making it a valuable addition to portfolios, resumes, and professional profiles.
 
 * **Gain Practical Experience with Core Analytics Tools**
