@@ -1,14 +1,23 @@
 # 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
-This project is perfect for:
-- 📊 Data Analyst aspirants who want to build a strong **Portfolio Project** for interviews and LinkedIn
-- 📚 Anyone learning Python, SQL, and Power BI
-- 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
+You can rewrite it in a more professional, developer-showcase style like this:
 
+# Project Objectives
 
+This project is designed to provide hands-on experience with real-world data analytics workflows .
 
-## 📌 Project Overview
+* **Build an Industry-Ready Portfolio Project**
+  Develop a complete end-to-end analytics solution that demonstrates data cleaning, analysis, visualization, and business insights—making it a valuable addition to portfolios, resumes, and professional profiles.
+
+* **Gain Practical Experience with Core Analytics Tools**
+  Apply Python, SQL, and Power BI in a real project environment to understand how these technologies work together for data processing, querying, reporting, and dashboard creation.
+
+* **Prepare for Data-Focused Career Opportunities**
+  Learn concepts and workflows commonly used in Data Analyst, Data Science, and Product Analytics roles, helping improve problem-solving abilities and readiness for technical interviews.
+
+This project aims to bridge the gap between theoretical learning and real-world analytics by providing practical exposure to industry-standard tools and methodologies.
+
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
 ✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
@@ -19,14 +28,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
 
-## 🛠️ How to Use This Project
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-   cd customer-trends-data-analysis-SQL-Python-PowerBI
    ```
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
